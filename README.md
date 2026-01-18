@@ -1,4 +1,4 @@
-# Thesis-
+# Undergraduate Thesis-(FYP) 
 🩺 **Automated Diabetic Retinopathy Diagnosis System**
 **An AI-Driven, Portable, and Cost-Effective Healthcare Solution**
 📌 **Abstract**
